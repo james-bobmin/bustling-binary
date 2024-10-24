@@ -1,11 +1,18 @@
 ---
 layout: '@/layouts/LandingLayout.astro'
-title: Nordlys
+title: James Raymond Thompson
 background: true
 logo: true
 ---
 
-A minimal Astro blog theme.\
-Ideal for a personal [blog](/posts) and showcasing a [projects](/projects) portfolio.\
-Fully customizable, dark mode & built-in color schemes.\
-Read more in the [about](/about) section.
+[blog](/posts) .\
+[projects](/projects) portfolio \
+[about](/about) section .\
+
+this is a landing page
+
+you have a strong urge to fly?
+
+I'm using tim nugents manifold to erect this internet totem of divine light.
+
+Thank you FjellOverflow, for Nordlys, the crunchy theme™

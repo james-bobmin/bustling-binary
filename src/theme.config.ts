@@ -1,10 +1,10 @@
 import { defineThemeConfig } from './types'
 
 export default defineThemeConfig({
-  site: 'https://nordlys.fjelloverflow.dev',
-  title: 'Nordlys',
-  description: 'A minimal Astro blog theme',
-  author: 'FjellOverflow',
+  site: 'https://jraymondt.com',
+  title: 'James Raymond Thompson',
+  description: 'a blog consisting of words and misc',
+  author: 'flatlinejim',
   navbarItems: [
     { label: 'Blog', href: '/posts' },
     { label: 'Projects', href: '/projects' },
@@ -15,6 +15,7 @@ export default defineThemeConfig({
       children: [
         { label: 'Landing page', href: '/' },
         { label: '404 page', href: '/404' },
+        { label: 'Author: flatlinejim', href: '/authors/jimbob' },
         { label: 'Author: FjellOverflow', href: '/authors/FjellOverflow' },
         { label: 'Tag: documentation', href: '/tags/documentation' }
       ]
@@ -23,7 +24,7 @@ export default defineThemeConfig({
   footerItems: [
     {
       icon: 'tabler--brand-github',
-      href: 'https://github.com/FjellOverflow/nordlys',
+      href: 'https://github.com/jraymondt/',
       label: 'Github'
     },
     {
