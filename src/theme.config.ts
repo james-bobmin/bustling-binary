@@ -15,7 +15,7 @@ export default defineThemeConfig({
       children: [
         { label: 'Landing page', href: '/' },
         { label: '404 page', href: '/404' },
-        { label: 'Author: flatlinejim', href: '/authors/jimbob' },
+        { label: 'Author: flatlinejim', href: '/authors/flatlinejim' },
         { label: 'Author: FjellOverflow', href: '/authors/FjellOverflow' },
         { label: 'Tag: documentation', href: '/tags/documentation' }
       ]
@@ -38,7 +38,7 @@ export default defineThemeConfig({
   locale: 'en',
   mode: 'dark',
   modeToggle: true,
-  colorScheme: 'scheme-mono',
+  colorScheme: 'scheme-aurora',
   openGraphImage: undefined,
   postsPerPage: 4,
   projectsPerPage: 3,

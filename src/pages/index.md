@@ -7,12 +7,11 @@ logo: true
 
 [blog](/posts) .\
 [projects](/projects) portfolio \
-[about](/about) section .\
+[about](/about) section
 
-this is a landing page
+- this is a landing page
+- you have a strong urge to fly?
 
-you have a strong urge to fly?
+I'm using greek manifold nuggets to erect this internet totem of divine light.
 
-I'm using tim nugents manifold to erect this internet totem of divine light.
-
-Thank you FjellOverflow, for Nordlys, the crunchy theme™
+Thank you FjellOverflow, for _[Nordlys: the crunchy theme™](https://github.com/FjellOverflow/nordlys)_
