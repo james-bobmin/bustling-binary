@@ -5,9 +5,7 @@ background: true
 logo: true
 ---
 
-[blog](/posts) .\
-[projects](/projects) portfolio \
-[about](/about) section
+[blog](/posts)
 
 - this is a landing page
 - you have a strong urge to fly?
