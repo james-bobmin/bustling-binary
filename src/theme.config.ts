@@ -4,7 +4,7 @@ export default defineThemeConfig({
   site: 'https://jraymondt.com',
   title: 'James Raymond Thompson',
   description: 'a blog consisting of words and misc',
-  author: 'flatlinejim',
+  author: 'Jim',
   navbarItems: [
     { label: 'Blog', href: '/posts' },
     { label: 'Projects', href: '/projects' },
@@ -38,7 +38,7 @@ export default defineThemeConfig({
   locale: 'en',
   mode: 'dark',
   modeToggle: true,
-  colorScheme: 'scheme-aurora',
+  colorScheme: 'scheme-mono',
   openGraphImage: undefined,
   postsPerPage: 4,
   projectsPerPage: 3,

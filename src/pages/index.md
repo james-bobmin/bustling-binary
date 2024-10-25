@@ -5,10 +5,11 @@ background: true
 logo: true
 ---
 
-[blog](/posts)
+- [blog](/posts)
 
-- this is a landing page
-- you have a strong urge to fly?
+- [projects](/projects)
+
+- this is a [landing](/posts) page
 
 I'm using greek manifold nuggets to erect this internet totem of divine light.
 
