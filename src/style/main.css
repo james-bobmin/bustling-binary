@@ -31,6 +31,18 @@
   }
 }
 
+figure {
+  display: table; /* Ensures the figure acts like a table for layout */
+  width: auto; /* Allows the figure to adjust to the image width */
+  margin: 0 auto; /* Centers the figure on the page */
+}
+
+figcaption {
+  display: table-caption; /* Makes the caption part of the table layout */
+  caption-side: bottom; /* Places the caption below the image */
+  text-align: center; /* Centers the caption text */
+}
+
 @layer utilities {
   .clickable {
     @apply cursor-pointer opacity-75 transition duration-500 ease-in-out hover:text-accent hover:opacity-100;
