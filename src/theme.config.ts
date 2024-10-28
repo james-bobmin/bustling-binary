@@ -4,7 +4,7 @@ export default defineThemeConfig({
   site: 'https://jraymondt.com',
   title: 'James Raymond Thompson',
   description: 'a blog consisting of words and misc',
-  author: 'Jim',
+  author: 'jimbob',
   navbarItems: [
     { label: 'Blog', href: '/posts' },
     { label: 'Projects', href: '/projects' },
