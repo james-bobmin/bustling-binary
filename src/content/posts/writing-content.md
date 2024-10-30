@@ -23,7 +23,7 @@ title: FAQ
 You can contact me at ...
 ```
 
-Go to `localhost:4321/faq` in your browser, and you will now see your newly created FAQ page! The frontmatter of a page is defined as follows.
+Go to `jraymondt.com/faq` in your browser, and you will now see your newly created FAQ page! The frontmatter of a page is defined as follows.
 
 ```ts
 // non-set properties default to the properties set in the theme config
@@ -57,7 +57,7 @@ tags:
 So today, I started learning a new programming language. It is really cool because ...
 ```
 
-Navigate to `localhost:4321/posts`, and your new post will have appear there. Clicking on it will show the content you wrote, nicely rendered as text! The frontmatter of a post is defined as follows.
+Navigate to `jraymondt.com/posts`, and your new post will have appear there. Clicking on it will show the content you wrote, nicely rendered as text! The frontmatter of a post is defined as follows.
 
 ```ts
 type PostFrontmatter = {
@@ -91,7 +91,7 @@ tags:
 I developed an awesome app, using `HTML`, `CSS` and `TypeScript`! The app can ...
 ```
 
-Take a look at `localhost:4321/projects`, and your new project should be listed there! The frontmatter of a project is defined as follows.
+Take a look at `jraymondt.com/projects`, and your new project should be listed there! The frontmatter of a project is defined as follows.
 
 ```ts
 type ProjectFrontmatter = {
