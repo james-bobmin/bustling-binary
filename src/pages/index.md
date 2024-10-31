@@ -11,6 +11,6 @@ logo: true
 
 - this is a [landing](/posts) page, yes it looks like shit. I will try harder.
 
-I'm using oval pant yokes to terrarium this internort totem of divine fright.
+I'm pantaloon yo-yo the third of terrarium this totem of divine fright, is also spook [zarathustra](https://www.digitalconcerthall.com/en/concert/2885).
 
-Thank you FjellOverflow, for [Nordlys](https://github.com/FjellOverflow/nordlys) and _THANK YOU!!_ keep coming back for sexy updates!
+This bit is confusing so I have removed it.

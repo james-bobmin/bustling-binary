@@ -3,7 +3,7 @@ import { defineThemeConfig } from './types'
 export default defineThemeConfig({
   site: 'https://jraymondt.com',
   title: 'James Raymond Thompson',
-  description: 'a blog consisting of words and misc',
+  description: 'you cannae stop me bloggin',
   author: 'jimbob',
   navbarItems: [
     { label: 'Blog', href: '/posts' },
@@ -16,7 +16,6 @@ export default defineThemeConfig({
         { label: 'Landing page', href: '/' },
         { label: '404 page', href: '/404' },
         { label: 'Author: flatlinejim', href: '/authors/flatlinejim' },
-        { label: 'Author: FjellOverflow', href: '/authors/FjellOverflow' },
         { label: 'Tag: documentation', href: '/tags/documentation' }
       ]
     }
@@ -31,6 +30,11 @@ export default defineThemeConfig({
       icon: 'tabler--rss',
       href: '/feed.xml',
       label: 'RSS feed'
+    },
+    {
+      icon: 'tabler--brand-instagram',
+      href: 'https://instagram.com/flatlinejim',
+      label: 'Insta'
     }
   ],
 
