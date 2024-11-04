@@ -1,7 +1,7 @@
 ---
 title: what does it take
 description: to get a drink around here
-publishedDate: 2024-11-03
+publishedDate: 2024-11-05
 tags:
   - diablo
   - the postal service
