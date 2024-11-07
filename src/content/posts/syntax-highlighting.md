@@ -20,15 +20,15 @@ sudo apt update
 
 The code above renders to:
 
-```
+```console
 sudo apt update
 ```
 
-Notice that, thanks to some post-processing and styling by Nordlys, the code block also has a header. Clicking on the <span class="iconify tabler--copy"></span> icon in the header copies the embedded code to the clipboard.
+Notice that, thanks to some post-processing and styling by Nordlys, the code block also has a header. Clicking on the icon in the header copies the embedded code to the clipboard.
 
 ## Setting the Code Language
 
-Nordlys can also render an icon that matches the code-language in the header. When adding `javascript` as the code language after the first backticks(```), the code block will have _JavaScript_ syntax highlighting and display a small <span class="iconify tabler--brand-javascript"></span> icon in the header.
+Nordlys can also render an icon that matches the code-language in the header. When adding `javascript` as the code language after the first backticks(```), the code block will have _JavaScript_ syntax highlighting and display a small icon in the header.
 
 ````md pages/example.md
 ```javascript
@@ -42,7 +42,7 @@ The code above renders to:
 const sortedArray = [3, 1, 2].toSorted()
 ```
 
-If the code language is not specified or if a language that is not yet supported is used, the <span class="iconify text-4xl tabler--dots"></span> icon will be displayed, as seen in the [basic example](#basic-example).
+If the code language is not specified or if a language that is not yet supported is used, the icon will be displayed, as seen in the [basic example](#basic-example).
 
 ## Adding a Label
 

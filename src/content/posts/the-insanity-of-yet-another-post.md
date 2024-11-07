@@ -43,7 +43,7 @@ I also need to incorporate a CMS into this Astro blog build. I am running my own
 so I have all the control in the world, but there is the fact I barely know what
 I am doing.
 
-flatlinejim@jraymondt.com for tips and nudes. just the tip of course.
+[flatlinejim@jraymondt.com](mailto:flatlinejim@jraymondt.com) for tips and nudes. just the tip of course.
 
 ```console :/
 

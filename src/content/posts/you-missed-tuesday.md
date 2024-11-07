@@ -22,7 +22,7 @@ there is a lot going on with Facebook, mostly scams? Am I right or just losing m
 
 Don't answer that.
 
-### I got a "free" reading. Copy pasta:
+### I got a "free" reading. Copy pasta
 
 ```console Your reading indicates that you may be struggling with feeling abandoned,
 ignored or unloved within the relationship. Your abilities are definitely emotions based
@@ -51,7 +51,7 @@ I see that you been suffering all lot about relationships and financially
 Firstly, it's the internet, most of that information is probably available via OSINT,
 I am a free and open book come at me! @#%&$
 
-### Second:
+### Second
 
 ![perspective](@/assets/mynextproject.jpg)
 
