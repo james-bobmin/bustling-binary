@@ -25,3 +25,5 @@ Thanks Mike, Nicole, Frank, Elanor, Joe, Karl, Eithne, Darren, Ben, Chris, Ebony
 
 Thank God.
 it is a nut job, sorry, God, GG
+![nobirb](@/assets/birb.png)
+I should be fixed by now, said the brain to the birb.
