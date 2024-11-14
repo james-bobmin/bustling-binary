@@ -24,3 +24,4 @@ export const resolveOgImageUrl = (image: string | HTMLAttributes<'img'>) => {
 
 export const isAbsolute = (url: string) =>
   url.indexOf('http://') === 0 || url.indexOf('https://') === 0
+
