@@ -46,6 +46,22 @@ const openGraphImageUrl = new URL(
 <!doctype html>
 <html lang={config.locale} class={config.colorScheme || 'scheme-mono'}>
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      type="text/partytown"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-F0GV2NSR0R"></script>
+    <script type="text/partytown">
+      window.dataLayer = window.dataLayer || []
+      function gtag() {
+        // eslint-disable-next-line prefer-rest-params
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+
+      gtag('config', 'G-F0GV2NSR0R')
+    </script>
+
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
@@ -86,6 +102,8 @@ const openGraphImageUrl = new URL(
     <ModeManager />
     <ViewTransitions />
   </head>
+  <!-- Google tag (gtag.js) -->
+
   <body>
     <slot />
     <CopyCodeButtonsPlugin />
