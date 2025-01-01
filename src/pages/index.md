@@ -5,10 +5,8 @@ background: true
 logo: true
 ---
 
-- [blog](/posts) <--CLICK HERE PLEASE, I need internet validation to survive
+- [blog](/posts) <--Bloggins
 
-- [projects](/projects)
+- [projects](/projects) Soone
 
-- this is a [landing](/posts) page, yes it looks like shit. I will try harder.
-
-You are vistor # _666999_
+- this is a [landing](/posts) Still looks like shit? Yes.
