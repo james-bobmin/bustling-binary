@@ -15,19 +15,19 @@ It really is a load of old biscuits up on cinderblocks in the blazing Augustine 
 
 ### miss polly prissy-pants
 
-Give me the courage to smash your fucking face in with a slug. Go fuck a rusty meat-hook.
-🙏
+In this episode of Cownan the Bovarian a slug. Go fuck a rusty meat-hook.
+
 ![honesty](@/assets/2025/cownan_the_bovarian.png)
 
 ### to the untrained eye
 
-This post does appear somewhat hostile, really, I just need a nap, 40 thousand lace weaving daffodils and a tall glass of Shetland-corgi.
+This post does appear somewhat unhinged, really, I just need a nap, 40 silk weaving moffas and a tall glass of Shetland-corgi.
 
 ### bullshit
 
 ![the steaks were so high](@/assets/2025/steak_deeznutz.jpg)
 
-I don't care which corner of our beautifully crafted, bespoke flat globe you are from, that is a fucking bull!
+I don't care which corner of our beautifully crafted, bespoke, flat-globe you are from, that is a fucking bull!
 
 The bad cow puns were brought to you by this piece of sausage restaurant.
 
@@ -37,7 +37,7 @@ I expect a steak to be emailed directly to me when they open, none of this overn
 
 Anyway, I feel much better in the second part of writing this bullshit, apparently.
 I am also addicted to Escitalopram but have been weening off. [yes, under guidance from my Psychiatrist and GP, before you all lose your shit]
-Sometimes people just fuck me off too.
+Sometimes people just fuck me off. By people I mean them.
 
 I haven't worked out the $CODE_HEADER_PLACEHOLDER$ thing yet, it's a plugin config, I don't care.
 _insert hooker with a penis lyrics_
