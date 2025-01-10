@@ -43,11 +43,9 @@ Every Monday 1230 – arrive 10 minutes before airing time at 1220
 
 OR
 
-Interview via phone [Telephone: 08 9494 2100](tel:0894942100) phone in at 1225
+Interview via phone [Telephone: 08 9494 2100](tel:0894942100) phone in at 1230
 
-### Sobriety recommended
-
-1+ years – No swearing. We are not a preacher or a teacher.
+Sobriety _recommended_ 1+ years – No swearing. We are not a preacher or a teacher.
 
 ### Preparation required
 
@@ -57,7 +55,7 @@ Some knowledge of AA history could be applied and if you read the AA preamble th
 
 ### AA Contact details
 
-Tell listeners how to contact AA: 24/7 helpline tel:1300222222
+Tell listeners how to contact AA: 24/7 helpline tel:1300 222 222
 
 Local number [08 9325 3566](tel:0893253566)
 

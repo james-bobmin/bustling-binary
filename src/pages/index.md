@@ -7,6 +7,6 @@ logo: true
 
 - [blog](/posts) <--Bloggins
 
-- [projects](/projects) Soone
+- [projects](/projects) Soon, including TAFE crap
 
-- this is a [landing](/posts) Still looks like shit? Yes.
+- Still trying to figure out "the look", like Roxette if you put them in a blender and served them in an iceream cone
